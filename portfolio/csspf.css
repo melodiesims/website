@@ -1,0 +1,85 @@
+			/*reference/parcour*/
+			body{text-align:center;
+			background-color:midnightblue;
+			font-size:large;
+			}
+			
+			.imagelivre{height:300px;
+			width:400px;
+			float:left;}
+		
+			 h1{color:white;
+            text-align:center;			
+			font-family:lucida console,monospace;
+			font-size:30px;
+			}
+			
+			h2{
+				color:white;
+				font-family:lucida console,monospace;
+				font-size:30px;
+			}
+			h3{
+				color:red;
+				font-family:lucida console,monospace;
+				font-size:30px;
+				text-decoration:underline;
+			}
+			
+			/*accueil*/
+		
+			.imagemoi{border-radius:50%;
+						height:200px;
+						width:200px;}
+			
+			p{ 
+			color:white;
+			font-family:lucida console,monospace;
+			}
+						
+			form{font-family:lucida console,monospace;
+			}
+			
+						
+			/*activitée actuelle*/		
+					
+			
+			.imie{
+				float:right;
+				height:100px;
+				width:300px;
+				}
+			
+			form{font-family:lucida console,monospace;
+			}
+						
+		
+			/*Projection future*/
+		
+			body{text-align:center;
+			background-color:black;
+			background-image:url(http://s4.wallpapic.de/4d4699f133bb1ebfaa67681f57e66d26/27/27463/details.jpg);
+			background-attachment:fixed;
+			background-repeat:no-repeat;
+			background-size:cover;
+			font-size:large;
+			
+			}
+			
+			.info{
+			float:left;
+			width:100px;
+			}
+			li{color:white;
+			}
+			
+			
+		
+		
+			/*Inscription*/
+			
+		
+		
+			
+			
+			
